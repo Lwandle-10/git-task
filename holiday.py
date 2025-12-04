@@ -50,3 +50,4 @@ else:
     print(f"Car rental cost for {rental_days} days: R{car_rental(rental_days)}")
     print("----------------------------------")
     print(f"Total holiday cost: R{total_holiday_cost}")
+    
